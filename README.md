@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋, I'm Gurmesa Borana
 
-<!--
-**gurmesa111-lgtm/gurmesa111-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Focused on building strong programming and problem-solving skills  
 
-Here are some ideas to get you started:
+🚀 Skills
+- C++
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Current Focus
+- Strengthening core programming concepts  
+- Practicing problem solving  
+- Exploring software development fundamentals  
+
+📫 Contact
+- Email: gurmesa111@gmail.com
